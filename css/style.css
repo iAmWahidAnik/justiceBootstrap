@@ -1,0 +1,27 @@
+.garamond{
+    font-family: 'EB Garamond', serif;
+}
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.color-primary{
+    color: #414040;
+}
+.color-secondary{
+    color: #707070;
+}
+.element-color{
+    color: #B68C5A;
+}
+.font-button-size{
+    font-size: 20px;
+}
+.bg-header{
+    background-image: url(../images/Rectangle\ 4.png);
+    height: 80vh;
+    background-size: cover;
+    border-radius: 10px;
+}
+.height-80vh{
+    height: 80vh;
+}

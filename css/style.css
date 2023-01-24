@@ -10,6 +10,9 @@
 .color-secondary{
     color: #707070;
 }
+.color-footer{
+    color: #CFCFCF;
+}
 .element-color{
     background-color: #B68C5A;
 }
@@ -27,6 +30,9 @@
     height: 80vh;
     background-size: cover;
     border-radius: 10px;
+}
+.bg-footer{
+    background-color: #111111;
 }
 .height-80vh{
     height: 80vh;
